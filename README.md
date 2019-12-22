@@ -1,2 +1,2 @@
 # AI_Secretary
-# This project was started to make time management more efficient.
+This project was started to make time management more efficient.
